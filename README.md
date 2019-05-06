@@ -11,4 +11,5 @@ Focused in full stack development with strengths being logic, communicating idea
 Please explore my GitHub to see some projects I've created and collaborated on. 
 
 Email: medinaisrael_17@yahoo.com
+
 LinkedIn: [Click Here](https://www.linkedin.com/in/israel-medina-271344180)
